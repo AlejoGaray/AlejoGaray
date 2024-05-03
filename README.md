@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @AlejoGaray
-- 👀 I’m interested in Backend develpment
+- 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Python, Git and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
